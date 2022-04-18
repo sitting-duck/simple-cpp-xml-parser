@@ -39,7 +39,7 @@ Some progress bars will show you how far along it is
 Restart Visual Studio and build again.
 
 
-References
+## References <br>
 [1] MFC Desktop Applications. https://docs.microsoft.com/en-us/cpp/mfc/mfc-desktop-applications?view=msvc-170 <br>
 [2] MFC MBCS DLL Add-on. https://docs.microsoft.com/en-us/cpp/mfc/mfc-mbcs-dll-add-on?view=msvc-170 <br>
 [3] Simple C++ XML Parser Tutorial. www.codeproject.com/Articles/111243/Simple-Cplusplus-XML-Parser <br>
