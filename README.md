@@ -43,3 +43,4 @@ Restart Visual Studio and build again.
 [1] MFC Desktop Applications. https://docs.microsoft.com/en-us/cpp/mfc/mfc-desktop-applications?view=msvc-170 <br>
 [2] MFC MBCS DLL Add-on. https://docs.microsoft.com/en-us/cpp/mfc/mfc-mbcs-dll-add-on?view=msvc-170 <br>
 [3] Simple C++ XML Parser Tutorial. www.codeproject.com/Articles/111243/Simple-Cplusplus-XML-Parser <br>
+[4] My Tutorial on Medium. https://ashley-tharp.medium.com/solved-error-msb8041-mfc-libraries-are-required-for-this-project-2a25e43951d9
