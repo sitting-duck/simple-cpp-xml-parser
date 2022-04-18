@@ -1,0 +1,12 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  stdafx.cpp
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  utils.cpp
+  testDlg.cpp
+  test.cpp
+  Node.cpp
+  Cxml.cpp
+  Attribute.cpp
+  Generating Code...
+Attribute.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  test.vcxproj -> C:\Users\ashle\Downloads\xml_demo\xml1\Debug\test.exe
