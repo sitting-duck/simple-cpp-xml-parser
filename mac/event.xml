@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Event Timespan="3">
+  <Geo>
+    <Locations>
+      <Loc Name="TacoBell" Id="0" Lat="31.12496" Lon="-97.74106" NodeType="SOLDIER" />
+      <Loc Name="PizzaHut" Id="1" Lat="31.12024" Lon="-97.70446" NodeType="SOLDIER" />
+      <Loc Name="OReillyAutoParts" Id="2" Lat="31.12638" Lon="-97.72636" NodeType="SOLDIER">
+        <Attribute Name="DataRate" ValueType="DataRateValue" Value="10Mb/s" />
+      </Loc>
+    </Locations>
+    <Roads>
+      <Road FromId="0" ToId="1" />
+      <Road FromId="1" ToId="2" />
+    </Roads>
+  </Geo>
+</Event>
